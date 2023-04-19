@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #9FAEBB;
+      font-weight: bold;
+    }
+    caption {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 16px;
+    }
